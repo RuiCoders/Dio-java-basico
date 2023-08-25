@@ -56,6 +56,13 @@ public class Operadores {
          * System.out.println(falsa);
          */
 
-        // 
+        // Operador Ternario
+
+        int a, b;
+        a= 5;
+        b=5;
+        String resultado = a==b ?"verdadeiro" : "falso";
+        // a  == igual deve retornar verdadeiro ou falso Utilizando o ternario ?: como resultado em unica linha diferiente IF /ELSE lembrando que string tem o retorno como texto
+        System.out.println(resultado);
     }
 }
