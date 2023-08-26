@@ -1,3 +1,5 @@
+import javax.imageio.stream.ImageInputStreamImpl;
+
 public class Operadores {
     public static void main(String[] args) {
         // concatenando textos
@@ -58,11 +60,42 @@ public class Operadores {
 
         // Operador Ternario
 
-        int a, b;
-        a= 5;
-        b=5;
-        String resultado = a==b ?"verdadeiro" : "falso";
-        // a  == igual deve retornar verdadeiro ou falso Utilizando o ternario ?: como resultado em unica linha diferiente IF /ELSE lembrando que string tem o retorno como texto
-        System.out.println(resultado);
+        /*
+         * int a, b;
+         * a= 5;
+         * b=5;
+         * String resultado = a==b ?"verdadeiro" : "falso";
+         * // a == igual deve retornar verdadeiro ou falso Utilizando o ternario ?: como
+         * resultado em unica linha diferiente IF /ELSE lembrando que string tem o
+         * retorno como texto
+         * System.out.println(resultado);
+         */
+
+        // Operadores Relacionais
+
+        /*
+         * == Igual
+         * != Diferiente
+         * > Maior
+         * >= Maior ou igual
+         * < Menor
+         * <= Menor ou igual
+         
+        int numero1 = 1;
+        int numero2 = 2;
+        boolean simNao = numero1 == numero2;
+        System.out.println("numeroUm é IGUAL a numeroDois?" + simNao);
+
+        simNao = numero1 != numero2;
+        System.out.println("numeroUm é DIFERENTE a numeroDois?" + simNao);
+
+        simNao = numero1 > numero2;
+        System.out.println("numeroUm é MAIOR a numeroDois?" + simNao);
+          if(numero1 < numero2){
+            System.out.println("A nossa condição e verdadeira");
+        }*/
+
+        
     }
+
 }
