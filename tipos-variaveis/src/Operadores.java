@@ -95,6 +95,18 @@ public class Operadores {
             System.out.println("A nossa condição e verdadeira");
         }*/
 
+        //Operadores Logicos
+
+        /*boolean condicao1 = true;
+        boolean condicao2 =true;
+
+        if(condicao1 && condicao2){
+            System.out.println("As DUAS condiçoes são verdadeiras");
+             }
+        if(condicao1 || condicao2){
+            System.out.println("UMA das condições e verdadeira");
+        }*/
+
         
     }
 
