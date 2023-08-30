@@ -46,7 +46,7 @@ https://github.com/RuiCoders/Dio-java-basico/assets/77218064/d86dd6f3-66cd-4def-
 
 <h2>Acesse o projeto</h2> 
 
-Você pode [acessar o código fonte do projeto]([https://github.com/jurandi1/desafio-dio-conta-bancaria/blob/main/desafio_dio_conta_bancaria/src/desafio_dio_conta_bancaria/ContaTerminal.java](https://github.com/RuiCoders/Dio-java-basico/blob/main/conta-banco-desafio/src/ContaTerminal.java)).
+Você pode [acessar o código fonte do projeto](https://github.com/RuiCoders/Dio-java-basico/blob/main/conta-banco-desafio/src/ContaTerminal.java).
 
 <h2>Desenvolvedor</h2>
 
