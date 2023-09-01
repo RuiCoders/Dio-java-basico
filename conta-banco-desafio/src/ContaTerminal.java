@@ -9,12 +9,12 @@ public class ContaTerminal {
         double saldo;
         System.out.println("-------------------- CONTA BANCÁRIA -------------------- \n");
         System.out.println("Por favor, digite o número da Conta: ");
-        numero = scanner.nextInt();
+        numero = Integer.parseInt(scanner.nextLine());
 
         System.out.println("Digite sua Agencia: ");
-        agencia = scanner.next();
+        agencia = scanner.nextLine();
         
-        scanner.nextLine();
+        
           /*
          * Neste código, após a leitura da agência com scanner.next(),
          * nós usamos scanner.nextLine() para consumir a quebra de linha pendente no
