@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="Java-anatomia-classes/src"/>
 	<classpathentry kind="src" path="sistema-smart-tv/src"/>
 	<classpathentry kind="src" path="tipos-variaveis/src"/>
+	<classpathentry kind="src" path="controle-de-fluxo-desafio/src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
