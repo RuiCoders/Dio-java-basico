@@ -4,9 +4,7 @@
 ## Introdução
 - Desafio do curso Trilha Java Básico da [DIO](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe) ministrado pelo instrutor [Gleyson Sampaio](https://github.com/glysns).
 
-## Sintaxe - Desafio
-
-## Controle de Fluxo 
+## Sintaxe - Desafio Controle de Fluxo 
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Controle de Fluxo codificando o seguinte cenário.
 
