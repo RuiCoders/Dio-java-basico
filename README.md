@@ -7,3 +7,7 @@
 
  [ 2- Desafio controle de fluxo ](https://github.com/RuiCoders/Dio-java-basico/tree/main/desafio-controle-de-fluxo).
 
+ [ 3- Desafio equilibrando saldo ](https://github.com/RuiCoders/Dio-java-basico/blob/main/desafio-equilibrando-saldo/src/bancario/EquilibrandoSaldo.java).
+
+
+
