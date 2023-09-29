@@ -9,5 +9,9 @@
 
  [ 3- Desafio equilibrando saldo ](https://github.com/RuiCoders/Dio-java-basico/blob/main/desafio-equilibrando-saldo/src/bancario/EquilibrandoSaldo.java).
 
+ [ 4- Desafio organizando seus ativos ](https://github.com/RuiCoders/Dio-java-basico/blob/main/desafio-organizando-seus-ativos/src/BancoOrganizadorAtivos.java).
+  
+ [ 5- Desafio condicionalmente rico ](https://github.com/RuiCoders/Dio-java-basico/blob/main/desafio-condicionalmente-rico/src/CondicionalmenteRico.java).
 
+ [ 6- Desafio juros Compostos ]().
 
