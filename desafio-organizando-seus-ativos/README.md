@@ -4,7 +4,7 @@
 ## Introdução
 - Desafio do curso Trilha Java Básico da [DIO](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe) ministrado pelo instrutor [Gleyson Sampaio](https://github.com/glysns).
 
-## Sintaxe - Organizando seus ativos em ordem alfabética
+## Sintaxe - Desafio Organizando seus ativos em ordem alfabética
 1. Descrição
 Após uma análise cuidadosa realizada pela equipe de desenvolvimento de uma empresa bancaria, foi identificado a necessidade de uma nova funcionalidade para otimizar os processos e melhorias da experiência dos usuários. Agora, sua tarefa é implementar uma solução que organize em ordem alfabética uma lista de ativos que será informada pelos usuários. Os ativos são representados por strings que representam seus tipos, como por exemplo: Reservas de liquidez, Ativos intangiveis e dentre outros.
 
