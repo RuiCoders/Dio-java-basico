@@ -13,5 +13,6 @@
   
  [ 5- Desafio condicionalmente rico ](https://github.com/RuiCoders/Dio-java-basico/blob/main/desafio-condicionalmente-rico/src/CondicionalmenteRico.java).
 
- [ 6- Desafio juros Compostos ]().
-
+ [ 6- Desafio juros compostos ](https://github.com/RuiCoders/Dio-java-basico/blob/main/desafio-juros-compostos/src/JurosCompostos.java).
+ 
+ [ 7- Desafio o grande deposito ](https://github.com/RuiCoders/Dio-java-basico/blob/main/desafio-o-grande-deposito/src/GrandeDeposito.java).
