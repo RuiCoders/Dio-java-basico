@@ -6,7 +6,7 @@ public class EquilibrandoSaldo {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-
+		System.out.print("Digite o saldo atual: ");
 		double saldoAtual = scanner.nextDouble();
 
 		System.out.print("Digite o valor do depósito: ");
